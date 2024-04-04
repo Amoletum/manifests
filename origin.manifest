@@ -1,5 +1,7 @@
 {
     "name": "Amoletum",
+    "website": "https://github.com/dvsku",
     "host": "192.168.100.242",
-    "port": 8888
+    "game_port": 8888,
+    "dv_port": 21205
 }
