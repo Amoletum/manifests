@@ -1,16 +1,3 @@
 {
-    "patches": [
-        {
-            "timestamp": 17126376133459256,
-            "hash": "bb02a3abc66340ade21715fa92184c94",
-            "links": []
-        },
-        {
-            "timestamp": 17126376133459256,
-            "hash": "bb02a3abc66340ade21715fa92184c94",
-            "links": [
-                "https://drive.google.com/uc?export=download&id=124IvY7QhJ04xZQCsdxt-jaVonsDqoWuu"
-            ]
-        }
-    ]
+    "patches": []
 }
